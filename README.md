@@ -5,11 +5,11 @@
 
 ### My GitHub Stats
 
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&count_private=true&theme=dark)
+![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&count_private=true&theme=tokyonight)
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=tokyonight&layout=compact)
 
 ---
 
