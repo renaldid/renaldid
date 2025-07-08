@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Renaldi 👋
+- 💻 I’m interested in software development, especially back-end development.
+- 🌱 I’m learning deep back-end development with Go-lang, Python, PHP and Ruby.
+- 💞️ I’m looking to collaborate on freelance and part-time.
 
-<!--
-**renaldid/renaldid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Stats
 
-Here are some ideas to get you started:
+![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&count_private=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=dark&layout=compact)
+
+---
+
+### How to reach me:
+- 📧 Email: [purwantorenaldi@gmail.com](mailto:purwantorenaldi@gmail.com)
+
+---
