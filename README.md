@@ -3,14 +3,6 @@
 - 🌱 I’m learning deep back-end development with Go-lang, Python, PHP and Ruby.
 - 💞️ I’m looking to collaborate on freelance and part-time.
 
-### My GitHub Stats
-
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&count_private=true&theme=tokyonight)
-
-### Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=tokyonight&layout=compact)
-
 ---
 
 ### How to reach me:
