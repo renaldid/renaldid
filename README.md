@@ -52,7 +52,6 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renaldid&theme=darkhub&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-![Snake animation](https://github.com/renaldid/renaldid/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -65,3 +64,4 @@ I'm open to backend opportunities, freelance projects, and technical discussions
 📧 [purwantorenaldi@gmail.com](mailto:purwantorenaldi@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=80&section=footer)
+
