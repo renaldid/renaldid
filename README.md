@@ -48,9 +48,9 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 
 <div align="center">
 
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renaldid&theme=darkhub&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
@@ -61,4 +61,3 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 I'm open to backend opportunities, freelance projects, and technical discussions.
 
 📧 [purwantorenaldi@gmail.com](mailto:purwantorenaldi@gmail.com)
-
