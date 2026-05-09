@@ -48,7 +48,7 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 
 <div align="center">
 
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
