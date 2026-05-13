@@ -36,8 +36,8 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 
 Projects I built to solve real backend engineering problems:
 
-[![go-apierr](https://github-readme-stats.vercel.app/api/pin/?username=renaldid&repo=go-apierr&theme=github_dark&hide_border=true&icon_color=00ADD8)](https://github.com/renaldid/go-apierr)
-[![go-env](https://github-readme-stats.vercel.app/api/pin/?username=renaldid&repo=go-env&theme=github_dark&hide_border=true&icon_color=00ADD8)](https://github.com/renaldid/go-env)
+[![go-apierr](https://gh-card.dev/repos/renaldid/go-apierr.svg?fullname=)](https://github.com/renaldid/go-apierr)
+[![go-env](https://gh-card.dev/repos/renaldid/go-env.svg?fullname=)](https://github.com/renaldid/go-env)
 
 <br>
 
@@ -45,8 +45,7 @@ Projects I built to solve real backend engineering problems:
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+![GitHub Streak](https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renaldid&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
