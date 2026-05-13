@@ -9,7 +9,7 @@
 
 </div>
 
----
+<br>
 
 ## About Me
 
@@ -19,7 +19,7 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 - Interested in distributed systems, API design, and developer tooling
 - Open to backend roles and serious collaborations
 
----
+<br>
 
 ## Tech Stack
 
@@ -42,26 +42,47 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+<br>
+
+## Open Source
+
+Projects I built to solve real backend engineering problems:
+
+[![go-apierr](https://github-readme-stats.vercel.app/api/pin/?username=renaldid&repo=go-apierr&theme=github_dark&hide_border=true&icon_color=00ADD8)](https://github.com/renaldid/go-apierr)
+[![go-env](https://github-readme-stats.vercel.app/api/pin/?username=renaldid&repo=go-env&theme=github_dark&hide_border=true&icon_color=00ADD8)](https://github.com/renaldid/go-env)
+
+<br>
 
 ## GitHub Stats
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=github_dark&hide_border=true&layout=compact&langs_count=6)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renaldid&theme=darkhub&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-
 </div>
 
----
+<br>
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renaldid/renaldid/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renaldid/renaldid/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/renaldid/renaldid/output/snake.svg" />
+</picture>
+
+<br>
 
 ## Get In Touch
 
-I'm open to backend opportunities, freelance projects, and technical discussions.
+Open to backend opportunities, freelance projects, and technical discussions.
 
-📧 [purwantorenaldi@gmail.com](mailto:purwantorenaldi@gmail.com)
+[purwantorenaldi@gmail.com](mailto:purwantorenaldi@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=80&section=footer)
-
