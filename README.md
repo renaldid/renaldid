@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-purwantorenaldi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:purwantorenaldi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-renaldid-181717?style=flat&logo=github&logoColor=white)](https://github.com/renaldid)
+![Profile Views](https://komarev.com/ghpvc/?username=renaldid&color=00ADD8&style=flat&label=profile+views)
 
 </div>
 
@@ -23,24 +24,11 @@ Backend engineer focused on building clean, production-ready APIs and services. 
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=go,python,php,postgres,redis,docker,git,linux,vscode&perrow=9)](https://skillicons.dev)
 
-**Backend & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
 <br>
 
@@ -57,13 +45,10 @@ Projects I built to solve real backend engineering problems:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<img height="165" src="https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=renaldid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldid&theme=github_dark&hide_border=true&layout=compact&langs_count=6)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renaldid&theme=darkhub&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renaldid&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
